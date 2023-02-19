@@ -28,6 +28,7 @@ The code in this repository requires the following packages:
 * Matplotlib
 * Seaborn
 * Sklearn
+
 These packages can be installed using pip:
 
 ```
